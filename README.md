@@ -1,4 +1,2 @@
 # hello-world
-================
-
-This is a funny place Eehh
+StartUp Tutorial TEst
